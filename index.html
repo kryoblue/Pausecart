@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PauseCart | Choose Your Pause</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="home-shell" aria-labelledby="home-title">
+    <header class="home-header">
+      <a class="app-logo" href="#" aria-label="PauseCart home">
+        <span class="logo-mark" aria-hidden="true">
+          <span class="pause-bars"></span>
+        </span>
+        <span class="logo-copy">
+          <strong>PauseCart</strong>
+          <small>Mindful checkout</small>
+        </span>
+      </a>
+
+      <button class="profile-button" type="button" aria-label="Open profile">
+        <span aria-hidden="true">PC</span>
+      </button>
+    </header>
+
+    <section class="hero-panel">
+      <p class="eyebrow">Impulse-control simulator</p>
+      <h1 id="home-title">What are you pausing today?</h1>
+      <p class="hero-copy">Search a craving or choose a mode to rehearse browsing without the pressure of a real purchase.</p>
+
+      <form class="search-form" role="search">
+        <label class="visually-hidden" for="search-input">Search products or food</label>
+        <span class="search-icon" aria-hidden="true">⌕</span>
+        <input id="search-input" type="search" placeholder="Search sneakers, ramen, headphones..." autocomplete="off" />
+        <button type="submit">Search</button>
+      </form>
+    </section>
+
+    <section class="mode-section" aria-label="Choose a PauseCart mode">
+      <article class="mode-card shopping-card" tabindex="0">
+        <div class="mode-content">
+          <span class="mode-icon" aria-hidden="true">🛍️</span>
+          <p class="mode-kicker">Browse products</p>
+          <h2>Shopping Mode</h2>
+          <p>Practice adding fashion, gadgets, and lifestyle finds to a fake cart before deciding what matters.</p>
+        </div>
+        <div class="mode-footer">
+          <span>Start mindful shopping</span>
+          <span class="arrow" aria-hidden="true">→</span>
+        </div>
+      </article>
+
+      <article class="mode-card food-card" tabindex="0">
+        <div class="mode-content">
+          <span class="mode-icon" aria-hidden="true">🍜</span>
+          <p class="mode-kicker">Simulate delivery</p>
+          <h2>Food Delivery Mode</h2>
+          <p>Explore cravings, build a no-cost order, and give hunger, mood, and habit a moment to settle.</p>
+        </div>
+        <div class="mode-footer">
+          <span>Open food pause</span>
+          <span class="arrow" aria-hidden="true">→</span>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <div class="ambient ambient-one" aria-hidden="true"></div>
+  <div class="ambient ambient-two" aria-hidden="true"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
