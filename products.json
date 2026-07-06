@@ -1,0 +1,902 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Wireless Earbuds Pro",
+    "category": "Electronics",
+    "price": 3999,
+    "rating": 4.6,
+    "image": "images/products/wireless-earbuds-pro.jpg",
+    "description": "Active noise cancellation earbuds with low-latency gaming mode and 28-hour case battery."
+  },
+  {
+    "id": "prod-002",
+    "name": "Mini Smartphone Gimbal",
+    "category": "Electronics",
+    "price": 6499,
+    "rating": 4.4,
+    "image": "images/products/smartphone-gimbal-mini.jpg",
+    "description": "Foldable three-axis stabilizer for smooth reels, vlogs, and travel videos."
+  },
+  {
+    "id": "prod-003",
+    "name": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 2499,
+    "rating": 4.5,
+    "image": "images/products/portable-bluetooth-speaker.jpg",
+    "description": "Water-resistant compact speaker with punchy bass and 16-hour playback."
+  },
+  {
+    "id": "prod-004",
+    "name": "Fast Charging Power Bank 20000mAh",
+    "category": "Electronics",
+    "price": 2199,
+    "rating": 4.3,
+    "image": "images/products/fast-charging-power-bank.jpg",
+    "description": "High-capacity power bank with USB-C PD output and dual-device charging."
+  },
+  {
+    "id": "prod-005",
+    "name": "RGB Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 5299,
+    "rating": 4.7,
+    "image": "images/products/mechanical-keyboard-rgb.jpg",
+    "description": "Hot-swappable mechanical keyboard with tactile switches and per-key lighting."
+  },
+  {
+    "id": "prod-006",
+    "name": "Ergonomic Wireless Mouse",
+    "category": "Electronics",
+    "price": 1499,
+    "rating": 4.2,
+    "image": "images/products/wireless-mouse-ergonomic.jpg",
+    "description": "Comfort-grip mouse with silent clicks, adjustable DPI, and long battery life."
+  },
+  {
+    "id": "prod-007",
+    "name": "Active Smartwatch 2",
+    "category": "Electronics",
+    "price": 8999,
+    "rating": 4.4,
+    "image": "images/products/smartwatch-active-2.jpg",
+    "description": "Fitness-focused smartwatch with AMOLED display, GPS, and health tracking."
+  },
+  {
+    "id": "prod-008",
+    "name": "7-in-1 USB-C Hub",
+    "category": "Electronics",
+    "price": 2799,
+    "rating": 4.5,
+    "image": "images/products/usb-c-hub-7in1.jpg",
+    "description": "Aluminium hub with HDMI, USB-A, SD card reader, and pass-through charging."
+  },
+  {
+    "id": "prod-009",
+    "name": "10-inch Wi-Fi Tablet",
+    "category": "Electronics",
+    "price": 15999,
+    "rating": 4.1,
+    "image": "images/products/tablet-10-inch-wifi.jpg",
+    "description": "Slim tablet for streaming, reading, and note-taking with all-day battery."
+  },
+  {
+    "id": "prod-010",
+    "name": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": 11999,
+    "rating": 4.6,
+    "image": "images/products/noise-cancelling-headphones.jpg",
+    "description": "Over-ear wireless headphones with adaptive ANC and plush memory-foam earcups."
+  },
+  {
+    "id": "prod-011",
+    "name": "4K Action Camera",
+    "category": "Electronics",
+    "price": 7999,
+    "rating": 4.2,
+    "image": "images/products/4k-action-camera.jpg",
+    "description": "Rugged action camera with wide-angle lens, stabilization, and waterproof case."
+  },
+  {
+    "id": "prod-012",
+    "name": "Smart LED Bulb Pack",
+    "category": "Electronics",
+    "price": 1299,
+    "rating": 4.3,
+    "image": "images/products/smart-led-bulb-pack.jpg",
+    "description": "Pack of four Wi-Fi bulbs with dimming, schedules, and voice assistant support."
+  },
+  {
+    "id": "prod-013",
+    "name": "Full HD Webcam",
+    "category": "Electronics",
+    "price": 1999,
+    "rating": 4.1,
+    "image": "images/products/webcam-full-hd.jpg",
+    "description": "1080p webcam with auto light correction and built-in privacy shutter."
+  },
+  {
+    "id": "prod-014",
+    "name": "Wireless Gaming Controller",
+    "category": "Electronics",
+    "price": 3499,
+    "rating": 4.4,
+    "image": "images/products/gaming-controller-wireless.jpg",
+    "description": "Bluetooth controller with textured grips, turbo mode, and rechargeable battery."
+  },
+  {
+    "id": "prod-015",
+    "name": "1TB Portable SSD",
+    "category": "Electronics",
+    "price": 7499,
+    "rating": 4.8,
+    "image": "images/products/ssd-portable-1tb.jpg",
+    "description": "Pocket-sized solid-state drive with fast transfers and shock-resistant shell."
+  },
+  {
+    "id": "prod-016",
+    "name": "Phone Tripod with Ring Light",
+    "category": "Electronics",
+    "price": 1899,
+    "rating": 4.2,
+    "image": "images/products/phone-tripod-ring-light.jpg",
+    "description": "Adjustable tripod stand with dimmable ring light for video calls and content."
+  },
+  {
+    "id": "prod-017",
+    "name": "Glare-Free E-Reader",
+    "category": "Electronics",
+    "price": 10999,
+    "rating": 4.5,
+    "image": "images/products/e-reader-light.jpg",
+    "description": "Lightweight e-reader with warm light, weeks of battery, and waterproof body."
+  },
+  {
+    "id": "prod-018",
+    "name": "Dual-Band Mesh Router",
+    "category": "Electronics",
+    "price": 6999,
+    "rating": 4.3,
+    "image": "images/products/wifi-mesh-router.jpg",
+    "description": "Whole-home mesh router node with app controls and strong dual-band coverage."
+  },
+  {
+    "id": "prod-019",
+    "name": "Aluminium Laptop Stand",
+    "category": "Electronics",
+    "price": 1799,
+    "rating": 4.6,
+    "image": "images/products/laptop-stand-aluminium.jpg",
+    "description": "Ventilated ergonomic stand that lifts laptops for cleaner desk posture."
+  },
+  {
+    "id": "prod-020",
+    "name": "15W Wireless Charging Pad",
+    "category": "Electronics",
+    "price": 1299,
+    "rating": 4.2,
+    "image": "images/products/wireless-charging-pad.jpg",
+    "description": "Slim Qi charging pad with anti-slip surface and temperature protection."
+  },
+  {
+    "id": "prod-021",
+    "name": "Organic Cotton Crew Tee",
+    "category": "Clothing",
+    "price": 799,
+    "rating": 4.4,
+    "image": "images/products/organic-cotton-tee.jpg",
+    "description": "Soft everyday T-shirt made from breathable organic cotton."
+  },
+  {
+    "id": "prod-022",
+    "name": "Linen Casual Shirt",
+    "category": "Clothing",
+    "price": 1699,
+    "rating": 4.3,
+    "image": "images/products/linen-casual-shirt.jpg",
+    "description": "Relaxed-fit linen blend shirt for warm days and polished layering."
+  },
+  {
+    "id": "prod-023",
+    "name": "Slim Fit Stretch Jeans",
+    "category": "Clothing",
+    "price": 2299,
+    "rating": 4.2,
+    "image": "images/products/slim-fit-jeans.jpg",
+    "description": "Mid-rise stretch denim with a clean slim silhouette and durable stitching."
+  },
+  {
+    "id": "prod-024",
+    "name": "Athleisure Joggers",
+    "category": "Clothing",
+    "price": 1899,
+    "rating": 4.5,
+    "image": "images/products/athleisure-joggers.jpg",
+    "description": "Tapered joggers with moisture-wicking fabric and zippered pockets."
+  },
+  {
+    "id": "prod-025",
+    "name": "Quilted Bomber Jacket",
+    "category": "Clothing",
+    "price": 3499,
+    "rating": 4.4,
+    "image": "images/products/quilted-bomber-jacket.jpg",
+    "description": "Lightweight quilted jacket with ribbed cuffs and water-repellent finish."
+  },
+  {
+    "id": "prod-026",
+    "name": "Textured Knit Polo",
+    "category": "Clothing",
+    "price": 1499,
+    "rating": 4.3,
+    "image": "images/products/knit-polo-shirt.jpg",
+    "description": "Premium knit polo with soft collar and smart-casual texture."
+  },
+  {
+    "id": "prod-027",
+    "name": "Quick-Dry Running Shorts",
+    "category": "Clothing",
+    "price": 999,
+    "rating": 4.2,
+    "image": "images/products/running-shorts.jpg",
+    "description": "Lightweight shorts with inner brief and reflective trim for evening runs."
+  },
+  {
+    "id": "prod-028",
+    "name": "Floral Maxi Dress",
+    "category": "Clothing",
+    "price": 2799,
+    "rating": 4.5,
+    "image": "images/products/maxi-dress-floral.jpg",
+    "description": "Flowy floral maxi dress with adjustable straps and side pockets."
+  },
+  {
+    "id": "prod-029",
+    "name": "Denim Overshirt",
+    "category": "Clothing",
+    "price": 2499,
+    "rating": 4.4,
+    "image": "images/products/denim-overshirt.jpg",
+    "description": "Heavy cotton denim overshirt that works as a shirt or light jacket."
+  },
+  {
+    "id": "prod-030",
+    "name": "Premium Fleece Hoodie",
+    "category": "Clothing",
+    "price": 1999,
+    "rating": 4.6,
+    "image": "images/products/hoodie-fleece.jpg",
+    "description": "Brushed fleece hoodie with roomy kangaroo pocket and structured hood."
+  },
+  {
+    "id": "prod-031",
+    "name": "Stretch Chino Trousers",
+    "category": "Clothing",
+    "price": 2199,
+    "rating": 4.2,
+    "image": "images/products/chino-trousers.jpg",
+    "description": "Tailored chinos with four-way stretch for office and weekend wear."
+  },
+  {
+    "id": "prod-032",
+    "name": "Handloom Cotton Kurta",
+    "category": "Clothing",
+    "price": 1799,
+    "rating": 4.5,
+    "image": "images/products/cotton-kurta.jpg",
+    "description": "Breathable handloom kurta with minimal embroidery and side slits."
+  },
+  {
+    "id": "prod-033",
+    "name": "Linen Blend Saree",
+    "category": "Clothing",
+    "price": 3299,
+    "rating": 4.4,
+    "image": "images/products/saree-linen-blend.jpg",
+    "description": "Elegant linen blend saree with contrast border and soft drape."
+  },
+  {
+    "id": "prod-034",
+    "name": "Packable Puffer Vest",
+    "category": "Clothing",
+    "price": 2999,
+    "rating": 4.3,
+    "image": "images/products/puffer-vest.jpg",
+    "description": "Warm sleeveless puffer vest that packs into its own pocket."
+  },
+  {
+    "id": "prod-035",
+    "name": "Cushioned Ankle Socks Pack",
+    "category": "Clothing",
+    "price": 499,
+    "rating": 4.1,
+    "image": "images/products/ankle-socks-pack.jpg",
+    "description": "Pack of five cushioned ankle socks with arch support."
+  },
+  {
+    "id": "prod-036",
+    "name": "Single-Breasted Blazer",
+    "category": "Clothing",
+    "price": 4999,
+    "rating": 4.3,
+    "image": "images/products/formal-blazer.jpg",
+    "description": "Structured blazer with notch lapels and breathable lining."
+  },
+  {
+    "id": "prod-037",
+    "name": "High-Waist Yoga Leggings",
+    "category": "Clothing",
+    "price": 1599,
+    "rating": 4.6,
+    "image": "images/products/yoga-leggings.jpg",
+    "description": "Squat-proof leggings with buttery stretch and hidden waistband pocket."
+  },
+  {
+    "id": "prod-038",
+    "name": "Minimal Graphic Sweatshirt",
+    "category": "Clothing",
+    "price": 1799,
+    "rating": 4.2,
+    "image": "images/products/graphic-sweatshirt.jpg",
+    "description": "Crewneck sweatshirt with subtle front print and soft loopback cotton."
+  },
+  {
+    "id": "prod-039",
+    "name": "Classic Leather Belt",
+    "category": "Clothing",
+    "price": 1199,
+    "rating": 4.4,
+    "image": "images/products/leather-belt.jpg",
+    "description": "Genuine leather belt with brushed metal buckle and adjustable fit."
+  },
+  {
+    "id": "prod-040",
+    "name": "Lightweight Rain Jacket",
+    "category": "Clothing",
+    "price": 2599,
+    "rating": 4.3,
+    "image": "images/products/rain-jacket.jpg",
+    "description": "Packable rain jacket with sealed seams and adjustable hood."
+  },
+  {
+    "id": "prod-041",
+    "name": "Premium Basmati Rice 5kg",
+    "category": "Groceries",
+    "price": 799,
+    "rating": 4.7,
+    "image": "images/products/basmati-rice-premium.jpg",
+    "description": "Aged long-grain basmati rice with fragrant aroma and fluffy texture."
+  },
+  {
+    "id": "prod-042",
+    "name": "Cold-Pressed Groundnut Oil 1L",
+    "category": "Groceries",
+    "price": 349,
+    "rating": 4.5,
+    "image": "images/products/cold-pressed-groundnut-oil.jpg",
+    "description": "Wood-pressed groundnut oil with rich nutty flavor for everyday cooking."
+  },
+  {
+    "id": "prod-043",
+    "name": "Whole Wheat Atta 10kg",
+    "category": "Groceries",
+    "price": 529,
+    "rating": 4.6,
+    "image": "images/products/whole-wheat-atta.jpg",
+    "description": "Stone-ground wheat flour ideal for soft rotis and parathas."
+  },
+  {
+    "id": "prod-044",
+    "name": "Organic Toor Dal 1kg",
+    "category": "Groceries",
+    "price": 219,
+    "rating": 4.4,
+    "image": "images/products/organic-toor-dal.jpg",
+    "description": "Cleaned and unpolished pigeon pea lentils for homestyle dal."
+  },
+  {
+    "id": "prod-045",
+    "name": "Arabica Coffee Beans 500g",
+    "category": "Groceries",
+    "price": 649,
+    "rating": 4.5,
+    "image": "images/products/arabica-coffee-beans.jpg",
+    "description": "Medium roast arabica beans with chocolate and caramel tasting notes."
+  },
+  {
+    "id": "prod-046",
+    "name": "Green Tea Bags 100 Count",
+    "category": "Groceries",
+    "price": 399,
+    "rating": 4.2,
+    "image": "images/products/green-tea-bags.jpg",
+    "description": "Refreshing green tea bags with a delicate, clean finish."
+  },
+  {
+    "id": "prod-047",
+    "name": "California Almonds 500g",
+    "category": "Groceries",
+    "price": 599,
+    "rating": 4.6,
+    "image": "images/products/almonds-california.jpg",
+    "description": "Crunchy whole almonds packed with natural protein and healthy fats."
+  },
+  {
+    "id": "prod-048",
+    "name": "Crunchy Peanut Butter 1kg",
+    "category": "Groceries",
+    "price": 449,
+    "rating": 4.4,
+    "image": "images/products/peanut-butter-crunchy.jpg",
+    "description": "High-protein peanut butter with roasted peanut crunch and no hydrogenated oils."
+  },
+  {
+    "id": "prod-049",
+    "name": "Rolled Oats 1kg",
+    "category": "Groceries",
+    "price": 249,
+    "rating": 4.3,
+    "image": "images/products/rolled-oats.jpg",
+    "description": "Whole grain rolled oats for porridge, overnight oats, and baking."
+  },
+  {
+    "id": "prod-050",
+    "name": "70% Dark Chocolate Bar",
+    "category": "Groceries",
+    "price": 199,
+    "rating": 4.5,
+    "image": "images/products/dark-chocolate-70.jpg",
+    "description": "Rich dark chocolate bar with balanced bitterness and smooth cocoa finish."
+  },
+  {
+    "id": "prod-051",
+    "name": "Himalayan Pink Salt 1kg",
+    "category": "Groceries",
+    "price": 149,
+    "rating": 4.1,
+    "image": "images/products/himalayan-pink-salt.jpg",
+    "description": "Mineral-rich pink salt crystals for seasoning and cooking."
+  },
+  {
+    "id": "prod-052",
+    "name": "Extra Virgin Olive Oil 500ml",
+    "category": "Groceries",
+    "price": 699,
+    "rating": 4.4,
+    "image": "images/products/extra-virgin-olive-oil.jpg",
+    "description": "Cold-extracted olive oil for salads, dips, and low-heat cooking."
+  },
+  {
+    "id": "prod-053",
+    "name": "Fruit & Nut Muesli 750g",
+    "category": "Groceries",
+    "price": 379,
+    "rating": 4.2,
+    "image": "images/products/breakfast-muesli.jpg",
+    "description": "Crunchy muesli with oats, dried fruits, seeds, and nuts."
+  },
+  {
+    "id": "prod-054",
+    "name": "Multigrain Bread Loaf",
+    "category": "Groceries",
+    "price": 75,
+    "rating": 4.0,
+    "image": "images/products/multigrain-bread.jpg",
+    "description": "Soft sliced bread made with mixed grains and seeds."
+  },
+  {
+    "id": "prod-055",
+    "name": "Greek Yogurt 400g",
+    "category": "Groceries",
+    "price": 165,
+    "rating": 4.3,
+    "image": "images/products/greek-yogurt.jpg",
+    "description": "Thick plain yogurt with creamy texture and high protein content."
+  },
+  {
+    "id": "prod-056",
+    "name": "Free-Range Eggs 12 Pack",
+    "category": "Groceries",
+    "price": 199,
+    "rating": 4.4,
+    "image": "images/products/free-range-eggs.jpg",
+    "description": "Fresh free-range eggs with bright yolks and sturdy shells."
+  },
+  {
+    "id": "prod-057",
+    "name": "Organic Forest Honey 500g",
+    "category": "Groceries",
+    "price": 399,
+    "rating": 4.5,
+    "image": "images/products/organic-honey.jpg",
+    "description": "Raw forest honey with floral sweetness and natural enzymes."
+  },
+  {
+    "id": "prod-058",
+    "name": "Masala Chai Blend 250g",
+    "category": "Groceries",
+    "price": 299,
+    "rating": 4.6,
+    "image": "images/products/masala-chai-blend.jpg",
+    "description": "Strong black tea blended with cardamom, ginger, cinnamon, and cloves."
+  },
+  {
+    "id": "prod-059",
+    "name": "Durum Wheat Penne Pasta 500g",
+    "category": "Groceries",
+    "price": 129,
+    "rating": 4.2,
+    "image": "images/products/pasta-penne.jpg",
+    "description": "Firm durum wheat pasta that holds sauces well."
+  },
+  {
+    "id": "prod-060",
+    "name": "Classic Tomato Ketchup 950g",
+    "category": "Groceries",
+    "price": 155,
+    "rating": 4.1,
+    "image": "images/products/tomato-ketchup.jpg",
+    "description": "Thick tomato ketchup with tangy-sweet flavor for snacks and sandwiches."
+  },
+  {
+    "id": "prod-061",
+    "name": "Cotton Bed Sheet Set",
+    "category": "Home",
+    "price": 1999,
+    "rating": 4.4,
+    "image": "images/products/cotton-bed-sheet.jpg",
+    "description": "Soft 300-thread-count cotton bedsheet set with two pillow covers."
+  },
+  {
+    "id": "prod-062",
+    "name": "Memory Foam Pillow",
+    "category": "Home",
+    "price": 1499,
+    "rating": 4.3,
+    "image": "images/products/memory-foam-pillow.jpg",
+    "description": "Contoured pillow that supports the neck and adapts to sleeping posture."
+  },
+  {
+    "id": "prod-063",
+    "name": "Ceramic Dinner Set 18-Piece",
+    "category": "Home",
+    "price": 3499,
+    "rating": 4.5,
+    "image": "images/products/ceramic-dinner-set.jpg",
+    "description": "Microwave-safe ceramic dinnerware set with modern matte finish."
+  },
+  {
+    "id": "prod-064",
+    "name": "Nonstick Cookware Set",
+    "category": "Home",
+    "price": 4299,
+    "rating": 4.4,
+    "image": "images/products/nonstick-cookware-set.jpg",
+    "description": "Three-piece nonstick cookware set with cool-touch handles."
+  },
+  {
+    "id": "prod-065",
+    "name": "Ultrasonic Aroma Diffuser",
+    "category": "Home",
+    "price": 1899,
+    "rating": 4.2,
+    "image": "images/products/aroma-diffuser.jpg",
+    "description": "Quiet essential oil diffuser with soft ambient light and auto shut-off."
+  },
+  {
+    "id": "prod-066",
+    "name": "Woven Storage Baskets Set",
+    "category": "Home",
+    "price": 1299,
+    "rating": 4.3,
+    "image": "images/products/storage-baskets.jpg",
+    "description": "Set of three woven baskets for shelves, closets, and living rooms."
+  },
+  {
+    "id": "prod-067",
+    "name": "Adjustable LED Desk Lamp",
+    "category": "Home",
+    "price": 1699,
+    "rating": 4.5,
+    "image": "images/products/desk-lamp-led.jpg",
+    "description": "Dimmable desk lamp with touch controls and flexible neck."
+  },
+  {
+    "id": "prod-068",
+    "name": "Plush Bath Towel Set",
+    "category": "Home",
+    "price": 1599,
+    "rating": 4.4,
+    "image": "images/products/bath-towel-set.jpg",
+    "description": "Set of four absorbent cotton bath towels with hotel-style softness."
+  },
+  {
+    "id": "prod-069",
+    "name": "Ceramic Indoor Planter",
+    "category": "Home",
+    "price": 899,
+    "rating": 4.2,
+    "image": "images/products/indoor-planter.jpg",
+    "description": "Minimal ceramic planter with drainage tray for indoor greens."
+  },
+  {
+    "id": "prod-070",
+    "name": "Wooden Wall Clock",
+    "category": "Home",
+    "price": 1199,
+    "rating": 4.1,
+    "image": "images/products/wall-clock-wood.jpg",
+    "description": "Silent-sweep wall clock with warm wood finish and clean numerals."
+  },
+  {
+    "id": "prod-071",
+    "name": "Room Air Purifier",
+    "category": "Home",
+    "price": 8999,
+    "rating": 4.5,
+    "image": "images/products/air-purifier-room.jpg",
+    "description": "HEPA air purifier for bedrooms with sleep mode and air quality indicator."
+  },
+  {
+    "id": "prod-072",
+    "name": "Folding Laundry Basket",
+    "category": "Home",
+    "price": 799,
+    "rating": 4.1,
+    "image": "images/products/folding-laundry-basket.jpg",
+    "description": "Space-saving laundry basket with sturdy handles and breathable mesh."
+  },
+  {
+    "id": "prod-073",
+    "name": "Glass Food Containers Set",
+    "category": "Home",
+    "price": 1499,
+    "rating": 4.4,
+    "image": "images/products/glass-food-containers.jpg",
+    "description": "Leak-resistant glass containers with snap lids for meal prep."
+  },
+  {
+    "id": "prod-074",
+    "name": "Microfiber Doormat",
+    "category": "Home",
+    "price": 699,
+    "rating": 4.2,
+    "image": "images/products/microfiber-doormat.jpg",
+    "description": "Absorbent anti-slip doormat that traps dust and moisture."
+  },
+  {
+    "id": "prod-075",
+    "name": "Blackout Curtains Pair",
+    "category": "Home",
+    "price": 2499,
+    "rating": 4.3,
+    "image": "images/products/blackout-curtains.jpg",
+    "description": "Thermal blackout curtains for better sleep and reduced room heat."
+  },
+  {
+    "id": "prod-076",
+    "name": "Bamboo Shoe Rack",
+    "category": "Home",
+    "price": 2199,
+    "rating": 4.2,
+    "image": "images/products/shoe-rack-bamboo.jpg",
+    "description": "Three-tier bamboo shoe rack with compact entryway footprint."
+  },
+  {
+    "id": "prod-077",
+    "name": "Stainless Steel Pressure Cooker 5L",
+    "category": "Home",
+    "price": 2699,
+    "rating": 4.5,
+    "image": "images/products/pressure-cooker.jpg",
+    "description": "Durable stainless steel pressure cooker for fast everyday meals."
+  },
+  {
+    "id": "prod-078",
+    "name": "Textured Throw Blanket",
+    "category": "Home",
+    "price": 1399,
+    "rating": 4.4,
+    "image": "images/products/throw-blanket.jpg",
+    "description": "Soft knitted throw blanket for sofas, beds, and reading corners."
+  },
+  {
+    "id": "prod-079",
+    "name": "Kitchen Knife Set",
+    "category": "Home",
+    "price": 1999,
+    "rating": 4.3,
+    "image": "images/products/kitchen-knife-set.jpg",
+    "description": "Five-piece stainless steel knife set with ergonomic handles."
+  },
+  {
+    "id": "prod-080",
+    "name": "Smart Robot Vacuum",
+    "category": "Home",
+    "price": 14999,
+    "rating": 4.2,
+    "image": "images/products/robot-vacuum.jpg",
+    "description": "App-controlled robot vacuum with scheduled cleaning and auto docking."
+  },
+  {
+    "id": "prod-081",
+    "name": "Premium Yoga Mat",
+    "category": "Fitness",
+    "price": 1299,
+    "rating": 4.6,
+    "image": "images/products/yoga-mat-premium.jpg",
+    "description": "Non-slip yoga mat with dense cushioning and alignment guides."
+  },
+  {
+    "id": "prod-082",
+    "name": "Adjustable Dumbbells Pair",
+    "category": "Fitness",
+    "price": 7999,
+    "rating": 4.5,
+    "image": "images/products/adjustable-dumbbells.jpg",
+    "description": "Space-saving dumbbells with quick weight selection for strength training."
+  },
+  {
+    "id": "prod-083",
+    "name": "Resistance Bands Set",
+    "category": "Fitness",
+    "price": 899,
+    "rating": 4.4,
+    "image": "images/products/resistance-bands-set.jpg",
+    "description": "Five-band resistance set with handles, door anchor, and carry pouch."
+  },
+  {
+    "id": "prod-084",
+    "name": "High-Density Foam Roller",
+    "category": "Fitness",
+    "price": 999,
+    "rating": 4.3,
+    "image": "images/products/foam-roller.jpg",
+    "description": "Textured foam roller for recovery, mobility, and muscle release."
+  },
+  {
+    "id": "prod-085",
+    "name": "Speed Jump Rope",
+    "category": "Fitness",
+    "price": 499,
+    "rating": 4.2,
+    "image": "images/products/jump-rope-speed.jpg",
+    "description": "Adjustable cable rope with smooth bearings for cardio intervals."
+  },
+  {
+    "id": "prod-086",
+    "name": "Fitness Tracker Band",
+    "category": "Fitness",
+    "price": 2499,
+    "rating": 4.1,
+    "image": "images/products/fitness-tracker-band.jpg",
+    "description": "Lightweight tracker with steps, sleep, heart rate, and workout modes."
+  },
+  {
+    "id": "prod-087",
+    "name": "Cast Iron Kettlebell 8kg",
+    "category": "Fitness",
+    "price": 1699,
+    "rating": 4.4,
+    "image": "images/products/kettlebell-8kg.jpg",
+    "description": "Powder-coated kettlebell for swings, squats, and functional workouts."
+  },
+  {
+    "id": "prod-088",
+    "name": "Gym Duffel Bag",
+    "category": "Fitness",
+    "price": 1499,
+    "rating": 4.3,
+    "image": "images/products/gym-duffel-bag.jpg",
+    "description": "Water-resistant duffel with shoe compartment and wet pocket."
+  },
+  {
+    "id": "prod-089",
+    "name": "Protein Shaker Bottle",
+    "category": "Fitness",
+    "price": 349,
+    "rating": 4.1,
+    "image": "images/products/shaker-bottle.jpg",
+    "description": "Leak-proof shaker with mixing ball and measurement markings."
+  },
+  {
+    "id": "prod-090",
+    "name": "Foldable Treadmill",
+    "category": "Fitness",
+    "price": 32999,
+    "rating": 4.2,
+    "image": "images/products/treadmill-foldable.jpg",
+    "description": "Compact motorized treadmill with incline levels and app display."
+  },
+  {
+    "id": "prod-091",
+    "name": "Percussion Massage Gun",
+    "category": "Fitness",
+    "price": 5999,
+    "rating": 4.5,
+    "image": "images/products/massage-gun.jpg",
+    "description": "Quiet massage gun with multiple attachments for post-workout recovery."
+  },
+  {
+    "id": "prod-092",
+    "name": "Doorway Pull-Up Bar",
+    "category": "Fitness",
+    "price": 1599,
+    "rating": 4.2,
+    "image": "images/products/pull-up-bar.jpg",
+    "description": "No-drill pull-up bar with padded grips and secure doorway fit."
+  },
+  {
+    "id": "prod-093",
+    "name": "Adjustable Ankle Weights",
+    "category": "Fitness",
+    "price": 999,
+    "rating": 4.1,
+    "image": "images/products/ankle-weights.jpg",
+    "description": "Pair of adjustable ankle weights for walking and lower-body training."
+  },
+  {
+    "id": "prod-094",
+    "name": "Padded Cycling Gloves",
+    "category": "Fitness",
+    "price": 699,
+    "rating": 4.2,
+    "image": "images/products/cycling-gloves.jpg",
+    "description": "Breathable gloves with gel padding and anti-slip palms."
+  },
+  {
+    "id": "prod-095",
+    "name": "Cushioned Running Shoes",
+    "category": "Fitness",
+    "price": 4499,
+    "rating": 4.4,
+    "image": "images/products/running-shoes.jpg",
+    "description": "Responsive running shoes with breathable mesh and grippy outsole."
+  },
+  {
+    "id": "prod-096",
+    "name": "Pilates Resistance Ring",
+    "category": "Fitness",
+    "price": 799,
+    "rating": 4.0,
+    "image": "images/products/pilates-ring.jpg",
+    "description": "Flexible Pilates ring for core, arms, and inner-thigh toning."
+  },
+  {
+    "id": "prod-097",
+    "name": "Ab Wheel Roller",
+    "category": "Fitness",
+    "price": 599,
+    "rating": 4.1,
+    "image": "images/products/ab-wheel.jpg",
+    "description": "Dual-wheel ab roller with knee pad for core strength workouts."
+  },
+  {
+    "id": "prod-098",
+    "name": "Insulated Steel Water Bottle",
+    "category": "Fitness",
+    "price": 899,
+    "rating": 4.5,
+    "image": "images/products/water-bottle-steel.jpg",
+    "description": "Double-wall bottle that keeps drinks cold for 24 hours."
+  },
+  {
+    "id": "prod-099",
+    "name": "Weightlifting Belt",
+    "category": "Fitness",
+    "price": 1799,
+    "rating": 4.3,
+    "image": "images/products/weightlifting-belt.jpg",
+    "description": "Supportive lifting belt with strong buckle and padded back panel."
+  },
+  {
+    "id": "prod-100",
+    "name": "Wooden Balance Board",
+    "category": "Fitness",
+    "price": 2499,
+    "rating": 4.2,
+    "image": "images/products/balance-board.jpg",
+    "description": "Curved balance board for stability, rehab, and desk movement breaks."
+  }
+]
